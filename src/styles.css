@@ -1,4 +1,6 @@
-h1 {
-  color: hotpink;
-  font-family: cursive;
+@import "tailwindcss";
+
+body {
+  font-family: system-ui, sans-serif;
+  color: brown;
 }
