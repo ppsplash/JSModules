@@ -3,8 +3,7 @@
   "source": "./src/index.html",
   "scripts": {
     "dev": "parcel",
-    "build": "parcel build src/index.html --public-url /JSModules/",
-    "predeploy": "npm run build",
+    "build": "parcel build"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4.1.18",
